@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.mat
+*.ipynb_checkpoints
+*.pkl
+*.pyc
+.idea/
